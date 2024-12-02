@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "uber-clone",
-    "slug": "uber-clone",
+    "name": "Uber",
+    "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -18,7 +18,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#2f80ed"
       }
     },
     "web": {
@@ -31,6 +31,7 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "newArchEnabled": true
   }
 }
